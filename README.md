@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AceEth
+- 👀 I’m interested in crypto, nfts, and creating projects.
+- 🌱 I’m currently learning Solidity.
+- 💞️ I’m looking to collaborate on any sort of project. Teamwork expierence would be awesome.
+- 📫 How to reach me - Twitter @0xAce_
